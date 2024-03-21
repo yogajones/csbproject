@@ -6,5 +6,6 @@ The purpose of this project is to create a web app with security issues from [OW
 The project implements a simple banking app with features such as logging in and transferring money to other users.
 
 
+
 #
 More info on Cyber Security Base: https://cybersecuritybase.mooc.fi/
